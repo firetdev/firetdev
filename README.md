@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hello there, sir!
+## I'm firet, I make random projects sometimes
+.....and this is where I put those projects so everyone can see them.
+
+I also develop games, and I make YouTube videos about the games--check them out! https://youtube.com/@firetdev
 
 <!--
 **firetdev/firetdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
