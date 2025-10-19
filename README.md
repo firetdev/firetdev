@@ -1,8 +1,8 @@
 # Hello there, sir!
-## I'm firet, I make random projects sometimes
+## I'm firet, I make random programming projects
 .....and this is where I put those projects so everyone can see them.
 
-I also develop games, and I make YouTube videos about the games--check them out! https://youtube.com/@firetdev
+I enjoy C++, Python, HTML/CSS/JS/React, and Godot. My main programming interests are games, web apps, APIs, and C++ or Python terminal programs.
 
 <!--
 **firetdev/firetdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
