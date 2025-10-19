@@ -4,6 +4,8 @@
 
 I enjoy C++, Python, HTML/CSS/JS/React, and Godot. My main programming interests are games, web apps, APIs, and C++ or Python terminal programs.
 
+I'm interested both in _cutting-edge web-based technology and web apps_ (think ChatGPT) and _mechatronics and infrastructure programming_ (think airports, planes, and industrial robots).
+
 <!--
 **firetdev/firetdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
