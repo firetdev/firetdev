@@ -6,10 +6,15 @@ I like making web apps, games, tools, game engines, simulations, APIs, ML algori
 
 I'm fluent in:
 C++ (including SFML and ImGui)
+
 Python (including NumPy and scikit-learn, which I'm currently learning)
+
 GDScript
+
 JavaScript (including React and Node.js, which I'm currently learning)
+
 HTML/CSS
+
 All 3 major desktop operating systems
 
 <!--
