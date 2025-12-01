@@ -4,19 +4,11 @@
 
 I like making web apps, games, tools, game engines, simulations, APIs, ML algorithms, and pretty much everything else you could imagine.
 
-I'm fluent in:
+I'm fluent in:  *C++,  Python,  GDScript,  JavaScript,  HTML/CSS*
 
-C++ (including SFML and ImGui)
+Using these libraries:  *Godot,  React,  Node.js,  Express,  NumPy,  scikit-learn,  SFML,  ImGui
 
-Python (including NumPy and scikit-learn, which I'm currently learning)
-
-GDScript
-
-JavaScript (including React and Node.js, which I'm currently learning)
-
-HTML/CSS
-
-All 3 major desktop operating systems
+I've used all 3 major desktop operating systems
 
 <!--
 **firetdev/firetdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
