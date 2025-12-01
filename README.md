@@ -1,10 +1,16 @@
 # Hello there, sir!
-## I'm firet, I make random programming projects
+## I'm firet, I make programming projects
 .....and this is where I put those projects so everyone can see them.
 
-I enjoy C++, Python, HTML/CSS/JS/React, and Godot. My main programming interests are games, web apps, APIs, and C++ or Python terminal programs.
+I like making web apps, games, tools, game engines, simulations, APIs, ML algorithms, and pretty much everything else you could imagine.
 
-I'm interested both in _cutting-edge web-based technology and web apps_ (think ChatGPT) and _mechatronics and infrastructure programming_ (think airports, planes, and industrial robots).
+I'm fluent in:
+C++ (including SFML and ImGui)
+Python (including NumPy and scikit-learn, which I'm currently learning)
+GDScript
+JavaScript (including React and Node.js, which I'm currently learning)
+HTML/CSS
+All 3 major desktop operating systems
 
 <!--
 **firetdev/firetdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
