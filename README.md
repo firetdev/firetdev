@@ -6,7 +6,7 @@ I like making web apps, games, tools, game engines, simulations, APIs, ML algori
 
 I'm fluent in:  *C++,  Python,  GDScript,  JavaScript,  HTML/CSS*
 
-Using these libraries:  *Godot,  React,  Node.js,  Express,  NumPy,  scikit-learn,  SFML,  ImGui
+Using these libraries:  *Godot,  React,  Node.js,  Express,  NumPy,  scikit-learn,  SFML,  ImGui*
 
 I've used all 3 major desktop operating systems
 
