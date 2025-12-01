@@ -5,6 +5,7 @@
 I like making web apps, games, tools, game engines, simulations, APIs, ML algorithms, and pretty much everything else you could imagine.
 
 I'm fluent in:
+
 C++ (including SFML and ImGui)
 
 Python (including NumPy and scikit-learn, which I'm currently learning)
