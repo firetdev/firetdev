@@ -8,6 +8,8 @@ I'm fluent in:  *C++,  Python,  GDScript,  JavaScript, TypeScript, HTML/CSS*
 
 Using these libraries:  *Godot,  React,  Node.js,  Express,  NumPy,  scikit-learn,  SFML,  ImGui*
 
+And I'm happy to learn more (Rust next??? It can't possibly be as good as C++...)
+
 I've used all 3 major desktop operating systems
 
 <!--
