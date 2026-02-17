@@ -4,7 +4,7 @@
 
 I like making web apps, games, tools, game engines, simulations, APIs, ML algorithms, and pretty much everything else you could imagine.
 
-I'm fluent in:  *C++,  Python,  GDScript,  JavaScript,  HTML/CSS*
+I'm fluent in:  *C++,  Python,  GDScript,  JavaScript, _TypeScript,___  HTML/CSS*
 
 Using these libraries:  *Godot,  React,  Node.js,  Express,  NumPy,  scikit-learn,  SFML,  ImGui*
 
