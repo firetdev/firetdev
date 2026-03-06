@@ -2,15 +2,13 @@
 ## I'm firet, I make programming projects
 .....and this is where I put those projects so everyone can see them.
 
-I like making web apps, games, tools, game engines, simulations, APIs, ML algorithms, and pretty much everything else you could imagine.
+I like making web apps, games, game engines, simulations, APIs, algorithms, and pretty much everything else you could imagine.
 
 I'm fluent in:  *C++,  Python,  GDScript,  JavaScript, TypeScript, HTML/CSS*
 
 Using these libraries:  *Godot,  React,  Node.js,  Express,  NumPy,  scikit-learn,  SFML,  ImGui*
 
 And I'm happy to learn more (Rust next??? It can't possibly be as good as C++...)
-
-I've used all 3 major desktop operating systems
 
 <!--
 **firetdev/firetdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
